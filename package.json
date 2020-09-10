@@ -1,0 +1,23 @@
+{
+  "name": "mern-graphql-apollo",
+  "version": "1.0.0",
+  "description": "for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pardeep889/mern-graphql-apollo.git"
+  },
+  "keywords": [
+    "mern",
+    "graphql-apollo"
+  ],
+  "author": "pardeep889",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pardeep889/mern-graphql-apollo/issues"
+  },
+  "homepage": "https://github.com/pardeep889/mern-graphql-apollo#readme"
+}
